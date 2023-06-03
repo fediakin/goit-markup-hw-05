@@ -677,10 +677,9 @@ img {
                 0px 1px 6px 0px #2e2f4214;
 }
 
-.links-items-portfolio:hover .portfolio-p,
-.links-items-portfolio:focus .portfolio-p {
+.portfolio-p:hover .links-items-portfolio,
+.portfolio-p:focus .links-items-portfolio {
         transform: translateY(0%);
-        
 }
 
 .is-hidden {
