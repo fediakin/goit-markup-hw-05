@@ -736,5 +736,5 @@ img {
 
 .modal-close-btn:hover,
 .modal-close-btn:focus {
-        fill: var(--our-white-color);
+        fill: #ffffff;
 }
