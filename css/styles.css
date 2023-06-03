@@ -677,8 +677,8 @@ img {
                 0px 1px 6px 0px #2e2f4214;
 }
 
-.portfolio-p:hover .links-items-portfolio,
-.portfolio-p:focus .links-items-portfolio {
+.portfolio-p:hover,
+.portfolio-p:focus {
         transform: translateY(0%);
 }
 
